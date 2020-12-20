@@ -1,0 +1,50 @@
+.header {
+    margin-left: auto;
+    margin-right: auto;
+    align-self: center;
+    width: 800pt;
+    height: 75pt;
+    border: 1px solid black;
+}
+
+.header__info {
+    text-align: center;
+}
+
+.main {
+    margin-left: auto;
+    margin-right: auto;
+    align-self: center;
+    width: 800pt;
+    height: 300pt;
+    border: 1px solid black;
+}
+
+.main__info {
+    text-align: center;
+}
+
+.main__infoFirst {
+    height: 290pt;
+    width: 120pt;
+    border: 1px solid black;
+}
+
+.main__infoSecond {
+    height: 290pt;
+    width: 120pt;
+    border: 1px solid black;
+}
+
+.footer {
+    margin-left: auto;
+    margin-right: auto;
+    align-self: center;
+    width: 800pt;
+    height: 75pt;
+    border: 1px solid black;
+}
+
+.footer_info {
+    text-align: center;
+}
